@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\net 7.props" />
+</Project>
